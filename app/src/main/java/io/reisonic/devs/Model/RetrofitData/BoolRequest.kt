@@ -1,5 +1,5 @@
 package io.reisonic.devs.Model.RetrofitData
 
-internal class BoolRequest {
+class BoolRequest {
     var isResponse = false
 }
